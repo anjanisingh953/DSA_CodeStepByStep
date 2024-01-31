@@ -1,0 +1,11 @@
+{
+  "name": "dsa_codestepbystep",
+  "version": "1.0.0",
+  "description": "This is compelete excercise of DSA question of CodeStepByStep",
+  "main": "program1_array_traversing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anjani Singh",
+  "license": "ISC"
+}
